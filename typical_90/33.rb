@@ -1,3 +1,6 @@
 H, W = gets.chomp.split.map(&:to_i)
-
-puts (W + 1) * (H + 1) / 4
+if H == 1 || W == 1
+  puts H * W
+else
+  puts ((H + 1) / 2) * ((W + 1) / 2)
+end
