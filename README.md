@@ -49,3 +49,8 @@ __ABC_224__
 A: AC
 B: AC
 C: AC(本番終了後に解けた)
+
+__ABC_225__
+A: AC
+B: AC
+C: WA
